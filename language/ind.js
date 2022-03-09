@@ -395,7 +395,7 @@ return `▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
      🕷️ READY KEBUTUHAN BOT WA 🕷️
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 💻 LIST RDP 💻
-
+[ Kosong ]
 RAM 2GB CORE 1 : 30K
 RAM 4GB CORE 2 : 50K
 RAM 8GB : 75K
@@ -406,7 +406,7 @@ Remote Desktop Protocol (sering disingkat menjadi RDP) adalah sebuah protokol ja
 ✅ FAST RESPON
 ✅ 24 JAM)
 ✅ NO DELAY
-💰 10K/BULAN
+💰 10K/Permanen
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ☎️ NOMOR KOSONG ☎️
 
@@ -462,7 +462,7 @@ return `‣‌🇯‌‌🇦‌‌🇸‌‌🇦‌•‌🇸‌‌🇭‌‌�
 ┃•[257 MEMBER : 15.000]
 ┗━━━━━━━━━━━━━━━━━━━
 💳PAYMENT
-💸GOPAY
+💸PULSA
 💸DANA
 \n`
 }
